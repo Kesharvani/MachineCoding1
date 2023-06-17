@@ -1,0 +1,16 @@
+.search_page_wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  text-align: center;
+}
+.search_button_wrapper {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.search_button_wrapper input {
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+}
